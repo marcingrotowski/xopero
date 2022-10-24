@@ -7,8 +7,13 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Page.Resources>
+        <ControlTemplate x:Key="EnemyTemplate" TargetType="ContentControl">
+            <Ellipse Height="100" Stroke="Black" Width="75" FocusVisualPrimaryBrush="Red" Fill="Gray"></Ellipse>
+        </ControlTemplate>
+    </Page.Resources>
 
-    <Grid>
+    <Grid x:Name="grid">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="160"/>
             <ColumnDefinition/>
@@ -19,5 +24,50 @@
             <RowDefinition Height="690*"/>
             <RowDefinition Height="160"/>
         </Grid.RowDefinitions>
+        <Button x:Name="startButton" Content="Start!" Grid.Row="2" VerticalAlignment="Top" Height="31" Width="128" Margin="18,78,0,0" Click="startButton_Click"/>
+        <ProgressBar x:Name="progressBar" Grid.Column="1" Grid.Row="2" Height="20"/>
+        <Canvas x:Name="playArea" Grid.Row="1" Grid.ColumnSpan="3" PointerMoved="playArea_PointerMoved" PointerExited="playArea_PointerExited">
+            <Canvas.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Red"/>
+                    <GradientStop Color="#FF00FFF9" Offset="1"/>
+                </LinearGradientBrush>
+            </Canvas.Background>
+            <Canvas.FocusVisualPrimaryBrush>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="#FFEA2B2B" Offset="0.598"/>
+                    <GradientStop Color="#FFAF2020" Offset="1"/>
+                    <GradientStop Color="#FF00A99E" Offset="0.305"/>
+                </LinearGradientBrush>
+            </Canvas.FocusVisualPrimaryBrush>
+            <StackPanel x:Name="human" Canvas.Left="0" Orientation="Vertical" Canvas.Top="0" PointerPressed="human_PointerPressed">
+                <Ellipse Height="10" Stroke="Black" Width="10" Fill="White" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                <Rectangle x:Name="rectangle" Height="25" Stroke="Black" Width="10" Fill="White" HorizontalAlignment="Center" VerticalAlignment="Center" PointerEntered="rectangle_PointerEntered"/>
+            </StackPanel>
+            <TextBlock x:Name="gameOverText" Canvas.Left="497" TextWrapping="Wrap" Text="Koniec gry" Canvas.Top="284" FontFamily="Arial Black" FontSize="100" FontWeight="Bold" FontStyle="Italic" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Rectangle x:Name="target" Height="100" Canvas.Left="534" Stroke="Black" Canvas.Top="139" Width="100" RenderTransformOrigin="0.5,0.5">
+                <Rectangle.RenderTransform>
+                    <CompositeTransform Rotation="45"/>
+                </Rectangle.RenderTransform>
+                <Rectangle.Fill>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+        </Canvas>
+        <StackPanel Grid.Column="2" Orientation="Vertical" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock TextWrapping="Wrap" Text="Ich unikaj" Style="{StaticResource SubheaderTextBlockStyle}" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            <ContentControl VerticalAlignment="Top" HorizontalAlignment="Center" Template="{StaticResource EnemyTemplate}">
+                <Ellipse x:Name="elipse1" Height="35" Stroke="Black" Fill="Black" Width="25" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="40,20,70,0" RenderTransformOrigin="0.5,0.5">
+                    <Ellipse.RenderTransform>
+                        <CompositeTransform SkewX="10"/>
+                    </Ellipse.RenderTransform>
+                </Ellipse>
+            </ContentControl>
+
+        </StackPanel>
     </Grid>
 </Page>
