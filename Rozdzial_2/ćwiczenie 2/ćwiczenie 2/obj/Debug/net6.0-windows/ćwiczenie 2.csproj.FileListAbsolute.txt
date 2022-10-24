@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\xopero\Rozdzial_2\ćwiczenie 2\ćwiczenie 2\bin\Debug\net6.0-windows\ćwiczenie 2.exe
+C:\Users\Admin\source\repos\xopero\Rozdzial_2\ćwiczenie 2\ćwiczenie 2\bin\Debug\net6.0-windows\ćwiczenie 2.deps.json
+C:\Users\Admin\source\repos\xopero\Rozdzial_2\ćwiczenie 2\ćwiczenie 2\bin\Debug\net6.0-windows\ćwiczenie 2.runtimeconfig.json
+C:\Users\Admin\source\repos\xopero\Rozdzial_2\ćwiczenie 2\ćwiczenie 2\bin\Debug\net6.0-windows\ćwiczenie 2.dll
+C:\Users\Admin\source\repos\xopero\Rozdzial_2\ćwiczenie 2\ćwiczenie 2\bin\Debug\net6.0-windows\ćwiczenie 2.pdb
+C:\Users\Admin\source\repos\xopero\Rozdzial_2\ćwiczenie 2\ćwiczenie 2\obj\Debug\net6.0-windows\ćwiczenie 2.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_2\ćwiczenie 2\ćwiczenie 2\obj\Debug\net6.0-windows\ćwiczenie_2.Form1.resources
+C:\Users\Admin\source\repos\xopero\Rozdzial_2\ćwiczenie 2\ćwiczenie 2\obj\Debug\net6.0-windows\ćwiczenie 2.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_2\ćwiczenie 2\ćwiczenie 2\obj\Debug\net6.0-windows\ćwiczenie 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\xopero\Rozdzial_2\ćwiczenie 2\ćwiczenie 2\obj\Debug\net6.0-windows\ćwiczenie 2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_2\ćwiczenie 2\ćwiczenie 2\obj\Debug\net6.0-windows\ćwiczenie 2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\xopero\Rozdzial_2\ćwiczenie 2\ćwiczenie 2\obj\Debug\net6.0-windows\ćwiczenie 2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_2\ćwiczenie 2\ćwiczenie 2\obj\Debug\net6.0-windows\ćwiczenie 2.dll
+C:\Users\Admin\source\repos\xopero\Rozdzial_2\ćwiczenie 2\ćwiczenie 2\obj\Debug\net6.0-windows\refint\ćwiczenie 2.dll
+C:\Users\Admin\source\repos\xopero\Rozdzial_2\ćwiczenie 2\ćwiczenie 2\obj\Debug\net6.0-windows\ćwiczenie 2.pdb
+C:\Users\Admin\source\repos\xopero\Rozdzial_2\ćwiczenie 2\ćwiczenie 2\obj\Debug\net6.0-windows\ćwiczenie 2.genruntimeconfig.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_2\ćwiczenie 2\ćwiczenie 2\obj\Debug\net6.0-windows\ref\ćwiczenie 2.dll
