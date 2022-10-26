@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1\zadanie_1\bin\Debug\net6.0-windows\zadanie_1.exe
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1\zadanie_1\bin\Debug\net6.0-windows\zadanie_1.deps.json
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1\zadanie_1\bin\Debug\net6.0-windows\zadanie_1.runtimeconfig.json
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1\zadanie_1\bin\Debug\net6.0-windows\zadanie_1.dll
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1\zadanie_1\bin\Debug\net6.0-windows\zadanie_1.pdb
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1\zadanie_1\obj\Debug\net6.0-windows\zadanie_1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1\zadanie_1\obj\Debug\net6.0-windows\zadanie_1.Form1.resources
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1\zadanie_1\obj\Debug\net6.0-windows\zadanie_1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1\zadanie_1\obj\Debug\net6.0-windows\zadanie_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1\zadanie_1\obj\Debug\net6.0-windows\zadanie_1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1\zadanie_1\obj\Debug\net6.0-windows\zadanie_1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1\zadanie_1\obj\Debug\net6.0-windows\zadanie_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1\zadanie_1\obj\Debug\net6.0-windows\zadanie_1.dll
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1\zadanie_1\obj\Debug\net6.0-windows\refint\zadanie_1.dll
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1\zadanie_1\obj\Debug\net6.0-windows\zadanie_1.pdb
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1\zadanie_1\obj\Debug\net6.0-windows\zadanie_1.genruntimeconfig.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1\zadanie_1\obj\Debug\net6.0-windows\ref\zadanie_1.dll
