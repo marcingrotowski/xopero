@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1_przyjecie_poprawka\zadanie_1_przyjecie_poprawka\bin\Debug\net6.0-windows\zadanie_1_przyjecie_poprawka.exe
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1_przyjecie_poprawka\zadanie_1_przyjecie_poprawka\bin\Debug\net6.0-windows\zadanie_1_przyjecie_poprawka.deps.json
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1_przyjecie_poprawka\zadanie_1_przyjecie_poprawka\bin\Debug\net6.0-windows\zadanie_1_przyjecie_poprawka.runtimeconfig.json
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1_przyjecie_poprawka\zadanie_1_przyjecie_poprawka\bin\Debug\net6.0-windows\zadanie_1_przyjecie_poprawka.dll
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1_przyjecie_poprawka\zadanie_1_przyjecie_poprawka\bin\Debug\net6.0-windows\zadanie_1_przyjecie_poprawka.pdb
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1_przyjecie_poprawka\zadanie_1_przyjecie_poprawka\obj\Debug\net6.0-windows\zadanie_1_przyjecie_poprawka.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1_przyjecie_poprawka\zadanie_1_przyjecie_poprawka\obj\Debug\net6.0-windows\zadanie_1_przyjecie_poprawka.Form1.resources
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1_przyjecie_poprawka\zadanie_1_przyjecie_poprawka\obj\Debug\net6.0-windows\zadanie_1_przyjecie_poprawka.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1_przyjecie_poprawka\zadanie_1_przyjecie_poprawka\obj\Debug\net6.0-windows\zadanie_1_przyjecie_poprawka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1_przyjecie_poprawka\zadanie_1_przyjecie_poprawka\obj\Debug\net6.0-windows\zadanie_1_przyjecie_poprawka.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1_przyjecie_poprawka\zadanie_1_przyjecie_poprawka\obj\Debug\net6.0-windows\zadanie_1_przyjecie_poprawka.AssemblyInfo.cs
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1_przyjecie_poprawka\zadanie_1_przyjecie_poprawka\obj\Debug\net6.0-windows\zadanie_1_przyjecie_poprawka.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1_przyjecie_poprawka\zadanie_1_przyjecie_poprawka\obj\Debug\net6.0-windows\zadanie_1_przyjecie_poprawka.dll
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1_przyjecie_poprawka\zadanie_1_przyjecie_poprawka\obj\Debug\net6.0-windows\refint\zadanie_1_przyjecie_poprawka.dll
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1_przyjecie_poprawka\zadanie_1_przyjecie_poprawka\obj\Debug\net6.0-windows\zadanie_1_przyjecie_poprawka.pdb
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1_przyjecie_poprawka\zadanie_1_przyjecie_poprawka\obj\Debug\net6.0-windows\zadanie_1_przyjecie_poprawka.genruntimeconfig.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_5\zadanie_1_przyjecie_poprawka\zadanie_1_przyjecie_poprawka\obj\Debug\net6.0-windows\ref\zadanie_1_przyjecie_poprawka.dll
