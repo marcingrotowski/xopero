@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_1_przyjecie_urodzinowe\zadanie_1_przyjecie_urodzinowe\obj\Debug\net6.0-windows\zadanie_1_przyjecie_urodzinowe.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_1_przyjecie_urodzinowe\zadanie_1_przyjecie_urodzinowe\obj\Debug\net6.0-windows\zadanie_1_przyjecie_urodzinowe.Form1.resources
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_1_przyjecie_urodzinowe\zadanie_1_przyjecie_urodzinowe\obj\Debug\net6.0-windows\zadanie_1_przyjecie_urodzinowe.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_1_przyjecie_urodzinowe\zadanie_1_przyjecie_urodzinowe\obj\Debug\net6.0-windows\zadanie_1_przyjecie_urodzinowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_1_przyjecie_urodzinowe\zadanie_1_przyjecie_urodzinowe\obj\Debug\net6.0-windows\zadanie_1_przyjecie_urodzinowe.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_1_przyjecie_urodzinowe\zadanie_1_przyjecie_urodzinowe\obj\Debug\net6.0-windows\zadanie_1_przyjecie_urodzinowe.AssemblyInfo.cs
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_1_przyjecie_urodzinowe\zadanie_1_przyjecie_urodzinowe\obj\Debug\net6.0-windows\zadanie_1_przyjecie_urodzinowe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_1_przyjecie_urodzinowe\zadanie_1_przyjecie_urodzinowe\bin\Debug\net6.0-windows\zadanie_1_przyjecie_urodzinowe.exe
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_1_przyjecie_urodzinowe\zadanie_1_przyjecie_urodzinowe\bin\Debug\net6.0-windows\zadanie_1_przyjecie_urodzinowe.deps.json
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_1_przyjecie_urodzinowe\zadanie_1_przyjecie_urodzinowe\bin\Debug\net6.0-windows\zadanie_1_przyjecie_urodzinowe.runtimeconfig.json
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_1_przyjecie_urodzinowe\zadanie_1_przyjecie_urodzinowe\bin\Debug\net6.0-windows\zadanie_1_przyjecie_urodzinowe.dll
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_1_przyjecie_urodzinowe\zadanie_1_przyjecie_urodzinowe\bin\Debug\net6.0-windows\zadanie_1_przyjecie_urodzinowe.pdb
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_1_przyjecie_urodzinowe\zadanie_1_przyjecie_urodzinowe\obj\Debug\net6.0-windows\zadanie_1_przyjecie_urodzinowe.dll
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_1_przyjecie_urodzinowe\zadanie_1_przyjecie_urodzinowe\obj\Debug\net6.0-windows\refint\zadanie_1_przyjecie_urodzinowe.dll
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_1_przyjecie_urodzinowe\zadanie_1_przyjecie_urodzinowe\obj\Debug\net6.0-windows\zadanie_1_przyjecie_urodzinowe.pdb
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_1_przyjecie_urodzinowe\zadanie_1_przyjecie_urodzinowe\obj\Debug\net6.0-windows\zadanie_1_przyjecie_urodzinowe.genruntimeconfig.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_1_przyjecie_urodzinowe\zadanie_1_przyjecie_urodzinowe\obj\Debug\net6.0-windows\ref\zadanie_1_przyjecie_urodzinowe.dll

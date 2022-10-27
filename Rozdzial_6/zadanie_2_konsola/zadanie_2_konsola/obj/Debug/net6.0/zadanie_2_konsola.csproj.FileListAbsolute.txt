@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_2_konsola\zadanie_2_konsola\obj\Debug\net6.0\zadanie_2_konsola.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_2_konsola\zadanie_2_konsola\obj\Debug\net6.0\zadanie_2_konsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_2_konsola\zadanie_2_konsola\obj\Debug\net6.0\zadanie_2_konsola.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_2_konsola\zadanie_2_konsola\obj\Debug\net6.0\zadanie_2_konsola.AssemblyInfo.cs
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_2_konsola\zadanie_2_konsola\obj\Debug\net6.0\zadanie_2_konsola.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_2_konsola\zadanie_2_konsola\bin\Debug\net6.0\zadanie_2_konsola.exe
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_2_konsola\zadanie_2_konsola\bin\Debug\net6.0\zadanie_2_konsola.deps.json
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_2_konsola\zadanie_2_konsola\bin\Debug\net6.0\zadanie_2_konsola.runtimeconfig.json
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_2_konsola\zadanie_2_konsola\bin\Debug\net6.0\zadanie_2_konsola.dll
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_2_konsola\zadanie_2_konsola\bin\Debug\net6.0\zadanie_2_konsola.pdb
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_2_konsola\zadanie_2_konsola\obj\Debug\net6.0\zadanie_2_konsola.dll
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_2_konsola\zadanie_2_konsola\obj\Debug\net6.0\refint\zadanie_2_konsola.dll
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_2_konsola\zadanie_2_konsola\obj\Debug\net6.0\zadanie_2_konsola.pdb
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_2_konsola\zadanie_2_konsola\obj\Debug\net6.0\zadanie_2_konsola.genruntimeconfig.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_2_konsola\zadanie_2_konsola\obj\Debug\net6.0\ref\zadanie_2_konsola.dll
