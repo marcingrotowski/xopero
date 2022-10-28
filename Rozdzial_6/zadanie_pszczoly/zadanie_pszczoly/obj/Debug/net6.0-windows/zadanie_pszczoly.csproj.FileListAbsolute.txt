@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_pszczoly\zadanie_pszczoly\bin\Debug\net6.0-windows\zadanie_pszczoly.exe
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_pszczoly\zadanie_pszczoly\bin\Debug\net6.0-windows\zadanie_pszczoly.deps.json
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_pszczoly\zadanie_pszczoly\bin\Debug\net6.0-windows\zadanie_pszczoly.runtimeconfig.json
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_pszczoly\zadanie_pszczoly\bin\Debug\net6.0-windows\zadanie_pszczoly.dll
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_pszczoly\zadanie_pszczoly\bin\Debug\net6.0-windows\zadanie_pszczoly.pdb
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_pszczoly\zadanie_pszczoly\obj\Debug\net6.0-windows\zadanie_pszczoly.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_pszczoly\zadanie_pszczoly\obj\Debug\net6.0-windows\zadanie_pszczoly.Form1.resources
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_pszczoly\zadanie_pszczoly\obj\Debug\net6.0-windows\zadanie_pszczoly.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_pszczoly\zadanie_pszczoly\obj\Debug\net6.0-windows\zadanie_pszczoly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_pszczoly\zadanie_pszczoly\obj\Debug\net6.0-windows\zadanie_pszczoly.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_pszczoly\zadanie_pszczoly\obj\Debug\net6.0-windows\zadanie_pszczoly.AssemblyInfo.cs
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_pszczoly\zadanie_pszczoly\obj\Debug\net6.0-windows\zadanie_pszczoly.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_pszczoly\zadanie_pszczoly\obj\Debug\net6.0-windows\zadanie_pszczoly.dll
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_pszczoly\zadanie_pszczoly\obj\Debug\net6.0-windows\refint\zadanie_pszczoly.dll
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_pszczoly\zadanie_pszczoly\obj\Debug\net6.0-windows\zadanie_pszczoly.pdb
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_pszczoly\zadanie_pszczoly\obj\Debug\net6.0-windows\zadanie_pszczoly.genruntimeconfig.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_6\zadanie_pszczoly\zadanie_pszczoly\obj\Debug\net6.0-windows\ref\zadanie_pszczoly.dll
