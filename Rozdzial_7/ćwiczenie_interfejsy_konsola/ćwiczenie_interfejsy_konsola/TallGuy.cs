@@ -11,14 +11,15 @@ namespace ćwiczenie_interfejsy_konsola
     {
         public string Name;
         public int Height;
+        public string FunnyThingIHave { get { return "duże buty"; } }
+
+        public void Honk()
+        {
+            Console.WriteLine("tut tut");
+        }
         public void TalkAboutYourself()
         {
             Console.WriteLine("Nazywam się " + Name + " i mam " + Height + " cm wzrostu");
-        }
-        static void Main(string[] args)
-        {
-            TallGuy tallGuy = new TallGuy() { Height = 74, Name = "Adam" };
-            tallGuy.TalkAboutYourself();
         }
     }
 }
