@@ -10,7 +10,7 @@ namespace ćwiczenie_dom
     {
         public RoomWithHidingPlace(string name, string decoration, string hidingPlaceName) : base(name, decoration)
         {
-            hidingPlaceName = hidingPlaceName;
+            HidingPlaceName = hidingPlaceName;
         }
 
         public string HidingPlaceName { get; private set; }

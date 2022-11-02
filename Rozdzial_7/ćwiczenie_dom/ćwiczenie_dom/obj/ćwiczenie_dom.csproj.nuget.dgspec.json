@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Downloads\\xopero-main\\xopero-main\\Rozdzial_7\\ćwiczenie_dom\\ćwiczenie_dom\\ćwiczenie_dom.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\xopero\\Rozdzial_7\\ćwiczenie_dom\\ćwiczenie_dom\\ćwiczenie_dom.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Downloads\\xopero-main\\xopero-main\\Rozdzial_7\\ćwiczenie_dom\\ćwiczenie_dom\\ćwiczenie_dom.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\xopero\\Rozdzial_7\\ćwiczenie_dom\\ćwiczenie_dom\\ćwiczenie_dom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Downloads\\xopero-main\\xopero-main\\Rozdzial_7\\ćwiczenie_dom\\ćwiczenie_dom\\ćwiczenie_dom.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\xopero\\Rozdzial_7\\ćwiczenie_dom\\ćwiczenie_dom\\ćwiczenie_dom.csproj",
         "projectName": "ćwiczenie_dom",
-        "projectPath": "C:\\Users\\user\\Downloads\\xopero-main\\xopero-main\\Rozdzial_7\\ćwiczenie_dom\\ćwiczenie_dom\\ćwiczenie_dom.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Downloads\\xopero-main\\xopero-main\\Rozdzial_7\\ćwiczenie_dom\\ćwiczenie_dom\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\xopero\\Rozdzial_7\\ćwiczenie_dom\\ćwiczenie_dom\\ćwiczenie_dom.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\xopero\\Rozdzial_7\\ćwiczenie_dom\\ćwiczenie_dom\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
