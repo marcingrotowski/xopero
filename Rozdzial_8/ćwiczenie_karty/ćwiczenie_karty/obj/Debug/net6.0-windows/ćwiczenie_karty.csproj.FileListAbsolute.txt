@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_karty\ćwiczenie_karty\bin\Debug\net6.0-windows\ćwiczenie_karty.exe
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_karty\ćwiczenie_karty\bin\Debug\net6.0-windows\ćwiczenie_karty.deps.json
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_karty\ćwiczenie_karty\bin\Debug\net6.0-windows\ćwiczenie_karty.runtimeconfig.json
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_karty\ćwiczenie_karty\bin\Debug\net6.0-windows\ćwiczenie_karty.dll
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_karty\ćwiczenie_karty\bin\Debug\net6.0-windows\ćwiczenie_karty.pdb
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_karty\ćwiczenie_karty\obj\Debug\net6.0-windows\ćwiczenie_karty.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_karty\ćwiczenie_karty\obj\Debug\net6.0-windows\ćwiczenie_karty.Form1.resources
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_karty\ćwiczenie_karty\obj\Debug\net6.0-windows\ćwiczenie_karty.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_karty\ćwiczenie_karty\obj\Debug\net6.0-windows\ćwiczenie_karty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_karty\ćwiczenie_karty\obj\Debug\net6.0-windows\ćwiczenie_karty.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_karty\ćwiczenie_karty\obj\Debug\net6.0-windows\ćwiczenie_karty.AssemblyInfo.cs
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_karty\ćwiczenie_karty\obj\Debug\net6.0-windows\ćwiczenie_karty.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_karty\ćwiczenie_karty\obj\Debug\net6.0-windows\ćwiczenie_karty.dll
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_karty\ćwiczenie_karty\obj\Debug\net6.0-windows\refint\ćwiczenie_karty.dll
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_karty\ćwiczenie_karty\obj\Debug\net6.0-windows\ćwiczenie_karty.pdb
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_karty\ćwiczenie_karty\obj\Debug\net6.0-windows\ćwiczenie_karty.genruntimeconfig.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_karty\ćwiczenie_karty\obj\Debug\net6.0-windows\ref\ćwiczenie_karty.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ćwiczenie_listy_kaczki", "ćwiczenie_listy_kaczki\ćwiczenie_listy_kaczki.csproj", "{ED0205E9-3070-40E5-9103-A1D22CC37E1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED0205E9-3070-40E5-9103-A1D22CC37E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED0205E9-3070-40E5-9103-A1D22CC37E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED0205E9-3070-40E5-9103-A1D22CC37E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED0205E9-3070-40E5-9103-A1D22CC37E1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFB36F5F-D1AA-418A-A90E-276414F3995F}
+	EndGlobalSection
+EndGlobal
