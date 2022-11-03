@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_listy_kaczki\ćwiczenie_listy_kaczki\bin\Debug\net6.0\ćwiczenie_listy_kaczki.exe
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_listy_kaczki\ćwiczenie_listy_kaczki\bin\Debug\net6.0\ćwiczenie_listy_kaczki.deps.json
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_listy_kaczki\ćwiczenie_listy_kaczki\bin\Debug\net6.0\ćwiczenie_listy_kaczki.runtimeconfig.json
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_listy_kaczki\ćwiczenie_listy_kaczki\bin\Debug\net6.0\ćwiczenie_listy_kaczki.dll
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_listy_kaczki\ćwiczenie_listy_kaczki\bin\Debug\net6.0\ćwiczenie_listy_kaczki.pdb
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_listy_kaczki\ćwiczenie_listy_kaczki\obj\Debug\net6.0\ćwiczenie_listy_kaczki.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_listy_kaczki\ćwiczenie_listy_kaczki\obj\Debug\net6.0\ćwiczenie_listy_kaczki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_listy_kaczki\ćwiczenie_listy_kaczki\obj\Debug\net6.0\ćwiczenie_listy_kaczki.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_listy_kaczki\ćwiczenie_listy_kaczki\obj\Debug\net6.0\ćwiczenie_listy_kaczki.AssemblyInfo.cs
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_listy_kaczki\ćwiczenie_listy_kaczki\obj\Debug\net6.0\ćwiczenie_listy_kaczki.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_listy_kaczki\ćwiczenie_listy_kaczki\obj\Debug\net6.0\ćwiczenie_listy_kaczki.dll
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_listy_kaczki\ćwiczenie_listy_kaczki\obj\Debug\net6.0\refint\ćwiczenie_listy_kaczki.dll
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_listy_kaczki\ćwiczenie_listy_kaczki\obj\Debug\net6.0\ćwiczenie_listy_kaczki.pdb
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_listy_kaczki\ćwiczenie_listy_kaczki\obj\Debug\net6.0\ćwiczenie_listy_kaczki.genruntimeconfig.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_listy_kaczki\ćwiczenie_listy_kaczki\obj\Debug\net6.0\ref\ćwiczenie_listy_kaczki.dll

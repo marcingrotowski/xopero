@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\zadanie_słownik_koszulki\zadanie_słownik_koszulki\obj\Debug\net6.0-windows\zadanie_słownik_koszulki.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\zadanie_słownik_koszulki\zadanie_słownik_koszulki\obj\Debug\net6.0-windows\zadanie_słownik_koszulki.Form1.resources
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\zadanie_słownik_koszulki\zadanie_słownik_koszulki\obj\Debug\net6.0-windows\zadanie_słownik_koszulki.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\zadanie_słownik_koszulki\zadanie_słownik_koszulki\obj\Debug\net6.0-windows\zadanie_słownik_koszulki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\zadanie_słownik_koszulki\zadanie_słownik_koszulki\obj\Debug\net6.0-windows\zadanie_słownik_koszulki.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\zadanie_słownik_koszulki\zadanie_słownik_koszulki\obj\Debug\net6.0-windows\zadanie_słownik_koszulki.AssemblyInfo.cs
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\zadanie_słownik_koszulki\zadanie_słownik_koszulki\obj\Debug\net6.0-windows\zadanie_słownik_koszulki.csproj.CoreCompileInputs.cache
