@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_sortowanie_kart\ćwiczenie_sortowanie_kart\bin\Debug\net6.0\ćwiczenie_sortowanie_kart.exe
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_sortowanie_kart\ćwiczenie_sortowanie_kart\bin\Debug\net6.0\ćwiczenie_sortowanie_kart.deps.json
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_sortowanie_kart\ćwiczenie_sortowanie_kart\bin\Debug\net6.0\ćwiczenie_sortowanie_kart.runtimeconfig.json
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_sortowanie_kart\ćwiczenie_sortowanie_kart\bin\Debug\net6.0\ćwiczenie_sortowanie_kart.dll
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_sortowanie_kart\ćwiczenie_sortowanie_kart\bin\Debug\net6.0\ćwiczenie_sortowanie_kart.pdb
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_sortowanie_kart\ćwiczenie_sortowanie_kart\obj\Debug\net6.0\ćwiczenie_sortowanie_kart.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_sortowanie_kart\ćwiczenie_sortowanie_kart\obj\Debug\net6.0\ćwiczenie_sortowanie_kart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_sortowanie_kart\ćwiczenie_sortowanie_kart\obj\Debug\net6.0\ćwiczenie_sortowanie_kart.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_sortowanie_kart\ćwiczenie_sortowanie_kart\obj\Debug\net6.0\ćwiczenie_sortowanie_kart.AssemblyInfo.cs
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_sortowanie_kart\ćwiczenie_sortowanie_kart\obj\Debug\net6.0\ćwiczenie_sortowanie_kart.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_sortowanie_kart\ćwiczenie_sortowanie_kart\obj\Debug\net6.0\ćwiczenie_sortowanie_kart.dll
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_sortowanie_kart\ćwiczenie_sortowanie_kart\obj\Debug\net6.0\refint\ćwiczenie_sortowanie_kart.dll
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_sortowanie_kart\ćwiczenie_sortowanie_kart\obj\Debug\net6.0\ćwiczenie_sortowanie_kart.pdb
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_sortowanie_kart\ćwiczenie_sortowanie_kart\obj\Debug\net6.0\ćwiczenie_sortowanie_kart.genruntimeconfig.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_sortowanie_kart\ćwiczenie_sortowanie_kart\obj\Debug\net6.0\ref\ćwiczenie_sortowanie_kart.dll

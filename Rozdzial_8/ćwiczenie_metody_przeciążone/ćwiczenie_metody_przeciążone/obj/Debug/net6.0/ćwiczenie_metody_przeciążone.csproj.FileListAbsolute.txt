@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_metody_przeciążone\ćwiczenie_metody_przeciążone\bin\Debug\net6.0\ćwiczenie_metody_przeciążone.exe
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_metody_przeciążone\ćwiczenie_metody_przeciążone\bin\Debug\net6.0\ćwiczenie_metody_przeciążone.deps.json
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_metody_przeciążone\ćwiczenie_metody_przeciążone\bin\Debug\net6.0\ćwiczenie_metody_przeciążone.runtimeconfig.json
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_metody_przeciążone\ćwiczenie_metody_przeciążone\bin\Debug\net6.0\ćwiczenie_metody_przeciążone.dll
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_metody_przeciążone\ćwiczenie_metody_przeciążone\bin\Debug\net6.0\ćwiczenie_metody_przeciążone.pdb
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_metody_przeciążone\ćwiczenie_metody_przeciążone\obj\Debug\net6.0\ćwiczenie_metody_przeciążone.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_metody_przeciążone\ćwiczenie_metody_przeciążone\obj\Debug\net6.0\ćwiczenie_metody_przeciążone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_metody_przeciążone\ćwiczenie_metody_przeciążone\obj\Debug\net6.0\ćwiczenie_metody_przeciążone.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_metody_przeciążone\ćwiczenie_metody_przeciążone\obj\Debug\net6.0\ćwiczenie_metody_przeciążone.AssemblyInfo.cs
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_metody_przeciążone\ćwiczenie_metody_przeciążone\obj\Debug\net6.0\ćwiczenie_metody_przeciążone.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_metody_przeciążone\ćwiczenie_metody_przeciążone\obj\Debug\net6.0\ćwiczenie_metody_przeciążone.dll
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_metody_przeciążone\ćwiczenie_metody_przeciążone\obj\Debug\net6.0\refint\ćwiczenie_metody_przeciążone.dll
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_metody_przeciążone\ćwiczenie_metody_przeciążone\obj\Debug\net6.0\ćwiczenie_metody_przeciążone.pdb
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_metody_przeciążone\ćwiczenie_metody_przeciążone\obj\Debug\net6.0\ćwiczenie_metody_przeciążone.genruntimeconfig.cache
+C:\Users\Admin\source\repos\xopero\Rozdzial_8\ćwiczenie_metody_przeciążone\ćwiczenie_metody_przeciążone\obj\Debug\net6.0\ref\ćwiczenie_metody_przeciążone.dll

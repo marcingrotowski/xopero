@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ćwiczenie_listy_kaczki/1.0.0": {
+        "runtime": {
+          "ćwiczenie_listy_kaczki.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ćwiczenie_listy_kaczki/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
