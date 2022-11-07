@@ -59,8 +59,10 @@ namespace ćwiczenie_naleśniki_kolekcje
         {
             if(breakfastLine.Count == 0)
             {
-                Lumberjack newLumberjack = breakfastLine.Dequeue();
-                nextLumberjack.EatFl
+                Lumberjack nextLumberjack = breakfastLine.Dequeue();
+                nextLumberjack.EatFlapjacks();
+                nextInLine.Text = "";
+                RedrawList();
             }
         }
     }
