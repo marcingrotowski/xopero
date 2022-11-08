@@ -13,13 +13,15 @@ namespace zadanie_pszczoly
             this.jobsICanDo = jobsICanDo;
         }
 
-        const double honeyUnitsPerShiftWorked = .65;
+        const double HoneyUnitsPerShiftWorked = .65;
+
         public override double HoneyConsumptionRate()
         {
             double consumption = base.HoneyConsumptionRate();
-            consumption += shiftsWorked * honeyUnitsPerShiftWorked;
+            consumption += shiftsWorked * HoneyUnitsPerShiftWorked;
             return consumption;
         }
+
         public int shiftsLeft
         {
             get
@@ -45,7 +47,8 @@ namespace zadanie_pszczoly
         {
             if (!String.IsNullOrEmpty(currentJob))
                 return false;
-            for(int i = 0; i < jobsICanDo.Length; i++) 
+            for(int i = 0; i < jobsICanDo.Length; i++)
+            {
                 if (jobsICanDo[i] == job)
                 {
                     currentJob = job;
@@ -53,7 +56,8 @@ namespace zadanie_pszczoly
                     shiftsWorked = 0;
                     return true;
                 }
-                return false;
+            }
+            return false;
         }
 
         public bool DidYouFinish()
@@ -63,8 +67,8 @@ namespace zadanie_pszczoly
             shiftsWorked++;
             if (shiftsWorked > shiftsToWork)
             {
-                shiftsWorked = 0;
                 shiftsToWork = 0;
+                shiftsWorked = 0;
                 currentJob = "";
                 return true;
             }
@@ -72,5 +76,4 @@ namespace zadanie_pszczoly
                 return false;
         }
     }
-
 }
