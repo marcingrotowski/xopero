@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Rozdzial_8",
+    "\\Rozdzial_8\\ConsoleApp1\\ConsoleApp1",
+    "\\Rozdzial_8\\ćwiczenie_listy_kaczki",
+    "\\Rozdzial_8\\ćwiczenie_listy_kaczki\\ćwiczenie_listy_kaczki"
   ],
-  "SelectedNode": "\\C:\\Users\\Admin\\Source\\Repos\\xopero",
+  "SelectedNode": "\\Rozdzial_8\\ćwiczenie_listy_kaczki\\ćwiczenie_listy_kaczki\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
